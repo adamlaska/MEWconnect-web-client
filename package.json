@@ -90,7 +90,7 @@
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-vue": "^6.2.1",
-    "jest": "^25.2.3",
+    "jest": "^26.0.0",
     "node-sass": "^4.12.0",
     "nyc": "^15.0.0",
     "opn": "^5.5.0",
